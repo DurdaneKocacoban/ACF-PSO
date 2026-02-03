@@ -24,7 +24,7 @@
 
 This repository provides the complete experimental data accompanying our research on **S-box optimization via Particle Swarm Optimization (PSO)**. The proposed algorithm employs a **composite fitness function** that simultaneously optimizes nonlinearity (NL), Strict Avalanche Criterion (SAC), and Differential Distribution Table (DDT) properties to construct cryptographically strong S-boxes.
 
-The optimization framework introduces several novel components — including **guided swap (local best & global best)**, **triple swap**, and **perturbation** mechanisms — that work together to escape local optima and consistently reach the **theoretical maximum nonlinearity of 112** for 8 bit S-boxes. An early stopping criterion based on the NL threshold further ensures computational efficiency.
+The optimization framework introduces several novel components — including **guided swap (local best & global best)**, **triple swap**, and **perturbation** mechanisms — that work together to escape local optima and reach the **theoretical maximum nonlinearity of 112** for 8 bit S-boxes. An early stopping criterion based on the NL threshold further ensures computational efficiency.
 
 All experiments are fully reproducible and organized into four complementary categories: main experiments validating the approach across diverse configurations, weight sensitivity analysis quantifying the impact of fitness component weights, ablation studies isolating each algorithmic component's contribution, and multiple-run tests confirming stability and reproducibility.
 
