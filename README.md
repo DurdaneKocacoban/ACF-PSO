@@ -101,7 +101,7 @@ All experiments are fully reproducible and organized into four complementary cat
   └── readme.md    
 ## 🧪 Experiments
 
-### 1. Main Experiments (`main_experiments/`)
+### 1. Main Experiments (`TABLE III-OPTIMISATION RESULTS ACROSS ALL TESTED EXPERIMENTAL RUNS/`)
 
 | Detail | Value |
 |---|---|
@@ -114,7 +114,16 @@ The main experiments evaluate the full proposed algorithm across varying particl
 
 Each case directory contains three files: the starting S-box permutation (`initial_sbox.txt`), the optimized result (`final_sbox.txt`), and a detailed log of every global best improvement (`global_best_swaps_only.log`).
 
-### 2. Weight Sensitivity Analysis (`weight_sensitivity/`)
+### 2. Multiple Run Tests (`TABLE VI-STATISTICAL ANALYSIS ACROSS 10 INDEPENDENT RUNS/`)
+
+| Detail | Value |
+|---|---|
+| **Configurations** | 4 |
+| **Consecutive Runs** | 10 per configuration |
+
+These experiments assess algorithmic **stability and reproducibility** by executing each configuration 10 consecutive times under identical conditions.
+
+### 3. Weight Sensitivity Analysis (`TABLE VII-WEIGHT SENSITIVITY ANALYSIS RESULTS/`)
 
 | Detail | Value |
 |---|---|
@@ -125,15 +134,15 @@ Each case directory contains three files: the starting S-box permutation (`initi
 
 This experiment investigates how different weightings of the composite fitness components affect optimization performance. Three distinct weight profiles are tested:
 
-| ID | Profile | w_NL | w_SAC | w_DDT |
-|---|---|---|---|---|
-| 01 | NL-Dominant | 0.70 | 0.20 | 0.10 |
-| 02 | SAC-Dominant | 0.15 | 0.70 | 0.15 |
-| 03 | DDT-Dominant | 0.10 | 0.20 | 0.70 |
+| ID |    Profile   | w_NL | w_SAC | w_DDT |
+|----|--------------|------|-------|------|
+|  A | NL-Dominant  | 0.70 | 0.20  | 0.10 |
+|  B | SAC-Dominant | 0.15 | 0.70  | 0.15 |
+|  C | DDT-Dominant | 0.10 | 0.20  | 0.70 |
 
-Folder naming follows the pattern `{weightID}-{initial}-{startNL}` (e.g., `01-A-97.25` uses the NL-dominant weights with initial `A` starting at NL = 97.25). Each configuration is repeated 5 times (`run01`–`run05`) with the same three output files per run.
+Folder naming follows the pattern `{weightID}-{w_NL/w_SAC/w_DDT}-{initial}` (e.g., `A_.70/.20/.10_97.25` uses the NL-dominant weights with initial `A` starting at NL = 97.25). Each configuration is repeated 5 times (`run01`–`run05`) with the same three output files per run.
 
-### 3. Ablation Study (`ablation/`)
+### 3. Ablation Study (`TABLE IX-ABLATION STUDY RESULTS/`)
 
 | Detail | Value |
 |---|---|
@@ -153,15 +162,6 @@ The ablation study systematically removes individual algorithmic components to q
 | **V5** | Without Guided Swap | Guided swap operator |
 
 > **Note:** V1 and V2 results are captured through the main experiments. This directory contains V3, V4, and V5 data, each tested across 5 different starting NL values with 5 independent runs per setting.
-
-### 4. Multiple Run Tests (`multiple_runs/`)
-
-| Detail | Value |
-|---|---|
-| **Configurations** | 4 |
-| **Consecutive Runs** | 10 per configuration |
-
-These experiments assess algorithmic **stability and reproducibility** by executing each configuration 10 consecutive times under identical conditions.
 
 ---
 
