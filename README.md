@@ -4,19 +4,19 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Repository Structure](#repository-structure)
-- [Experiments](#experiments)
-  - [1. Main Experiments](#1-main-experiments-main_experiments)
-  - [2. Weight Sensitivity Analysis](#2-weight-sensitivity-analysis-weight_sensitivity)
-  - [3. Ablation Study](#3-ablation-study-ablation)
-  - [4. Multiple Run Tests](#4-multiple-run-tests-multiple_runs)
-- [File Format Reference](#file-format-reference)
-- [Requirements](#requirements)
-- [Contact](#contact)
+  ## 📋 Table of Contents                                                                                                                                                                                            
+                                                                                                                                                                              
+  - [Overview](#overview)                                                                                                                                                                                            
+  - [Key Features](#key-features)                                                                                                                                                                                    
+  - [Repository Structure](#repository-structure)                                                                                                                                                                    
+  - [Experiments](#experiments)                                                                                                                                                                                      
+    - [1. Main Experiments (30 Cases)](#1-main-experiments-main_experiments)                                                                                                                                         
+    - [2. Statistical Analysis (10 Independent Runs)](#2-statistical-analysis-statistical_analysis)                                                                                                                  
+    - [3. Weight Sensitivity Analysis](#3-weight-sensitivity-analysis-weight_sensitivity)                                                                                                                            
+    - [4. Ablation Study](#4-ablation-study-ablation)                                                                                                                                                                
+  - [File Format Reference](#file-format-reference)                                                                                                                                                                  
+  - [Requirements](#requirements)                                                                                                                                                                                    
+  - [Contact](#contact)  
 
 ---
 
