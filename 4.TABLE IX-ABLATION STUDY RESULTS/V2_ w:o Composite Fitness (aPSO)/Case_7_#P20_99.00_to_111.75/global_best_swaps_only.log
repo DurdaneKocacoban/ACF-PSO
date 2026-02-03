@@ -1,0 +1,33 @@
+# Global Best Swaps Only - DEBUG MODE
+# Started on: 2025-07-09T12:09:53.417
+# Format: Timestamp | Step | Particle | Operation | Indices | Local | Global | Status
+# Note: Each global best S-box is saved in debug_sboxes/ directory
+
+2025-07-09T12:09:53.748 | Step 1 | Particle 16 | RANDOM_SWAP | Indices: (244, 22) | Local: 0.0 | Global: 6.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:53.907 | Step 2 | Particle 8 | TRIPLE_SWAP | Indices: (149, 219, 31) | Local: 12.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:53.949 | Step 2 | Particle 17 | TRIPLE_SWAP | Indices: (132, 118, 124) | Local: 4.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.081 | Step 3 | Particle 13 | TRIPLE_SWAP | Indices: (164, 240, 61) | Local: 6.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.428 | Step 5 | Particle 3 | TRIPLE_SWAP | Indices: (10, 14, 82) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.428 | Step 5 | Particle 4 | TRIPLE_SWAP | Indices: (37, 177, 126) | Local: 4.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.448 | Step 5 | Particle 5 | TRIPLE_SWAP | Indices: (37, 142, 88) | Local: 8.0 | Global: 4.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.574 | Step 6 | Particle 3 | TRIPLE_SWAP | Indices: (63, 59, 40) | Local: 6.0 | Global: 6.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.618 | Step 6 | Particle 15 | TRIPLE_SWAP | Indices: (159, 155, 91) | Local: 4.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:54.902 | Step 8 | Particle 5 | TRIPLE_SWAP | Indices: (14, 120, 126) | Local: 6.0 | Global: 4.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:55.140 | Step 9 | Particle 15 | RANDOM_SWAP | Indices: (99, 185) | Local: 0.0 | Global: 4.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:55.489 | Step 11 | Particle 16 | TRIPLE_SWAP | Indices: (198, 12, 147) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:55.667 | Step 12 | Particle 3 | TRIPLE_SWAP | Indices: (18, 247, 2) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:56.011 | Step 14 | Particle 11 | TRIPLE_SWAP | Indices: (5, 151, 15) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:56.355 | Step 16 | Particle 17 | TRIPLE_SWAP | Indices: (114, 219, 28) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:57.042 | Step 22 | Particle 15 | TRIPLE_SWAP | Indices: (73, 35, 235) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:58.088 | Step 33 | Particle 20 | TRIPLE_SWAP | Indices: (234, 92, 4) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:58.339 | Step 36 | Particle 9 | TRIPLE_SWAP | Indices: (243, 115, 188) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:58.546 | Step 38 | Particle 11 | TRIPLE_SWAP | Indices: (61, 87, 237) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:09:59.323 | Step 47 | Particle 4 | TRIPLE_SWAP | Indices: (243, 185, 178) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:10:05.986 | Step 129 | Particle 17 | TRIPLE_SWAP | Indices: (253, 142, 150) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:10:08.980 | Step 166 | Particle 12 | TRIPLE_SWAP | Indices: (18, 157, 32) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:10:13.261 | Step 220 | Particle 4 | TRIPLE_SWAP | Indices: (50, 62, 86) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:10:40.511 | Step 569 | Particle 16 | TRIPLE_SWAP | Indices: (195, 115, 200) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:11:46.386 | Step 1342 | Particle 7 | TRIPLE_SWAP | Indices: (36, 37, 20) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:12:29.011 | Step 1839 | Particle 8 | TRIPLE_SWAP | Indices: (235, 252, 68) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:30:45.730 | Step 14702 | Particle 2 | TRIPLE_SWAP | Indices: (80, 156, 59) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
+2025-07-09T12:46:46.711 | Step 25989 | Particle 20 | TRIPLE_SWAP | Indices: (202, 225, 155) | Local: 2.0 | Global: 2.0 | STATUS: APPLIED ✅
