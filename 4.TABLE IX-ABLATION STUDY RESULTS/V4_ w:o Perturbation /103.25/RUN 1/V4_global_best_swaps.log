@@ -1,0 +1,630 @@
+# V4: PERTURBATION KAPALI - Ablation Study
+# Started on: 2026-01-20T09:46:16.327
+
+=================================================================================
+2026-01-20T09:46:16.485 | Step 1 | Particle 7 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: TRIPLE_SWAP | Indices: (137, 136, 140)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.503 | Step 1 | Particle 8 | GLOBAL BEST!
+Global Improvement: 0.0006835937500000444
+  Move 1: TRIPLE_SWAP | Indices: (26, 160, 135)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.507 | Step 1 | Particle 18 | GLOBAL BEST!
+Global Improvement: 0.0001953124999999334
+  Move 1: TRIPLE_SWAP | Indices: (12, 256, 75)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.513 | Step 1 | Particle 32 | GLOBAL BEST!
+Global Improvement: 0.003515625000000022
+  Move 1: TRIPLE_SWAP | Indices: (49, 232, 144)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.530 | Step 1 | Particle 74 | GLOBAL BEST!
+Global Improvement: 0.0015625000000000222
+  Move 1: TRIPLE_SWAP | Indices: (177, 256, 204)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.548 | Step 1 | Particle 122 | GLOBAL BEST!
+Global Improvement: 0.00048828125
+  Move 1: TRIPLE_SWAP | Indices: (135, 62, 232)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.679 | Step 2 | Particle 2 | GLOBAL BEST!
+Global Improvement: 0.00048828125
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (135, 232)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (62, 232)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (232, 135)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (232, 135)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (62, 135)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (135, 232)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 11: TRIPLE_SWAP | Indices: (3, 87, 114)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.691 | Step 2 | Particle 3 | GLOBAL BEST!
+Global Improvement: 0.0012695312499999556
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (135, 232)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 3: TRIPLE_SWAP | Indices: (256, 205, 48)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.697 | Step 2 | Particle 17 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (232, 135)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (232, 135)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (135, 232)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (62, 232)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (62, 232)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (135, 232)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (135, 232)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 11: TRIPLE_SWAP | Indices: (243, 157, 195)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.698 | Step 2 | Particle 19 | GLOBAL BEST!
+Global Improvement: 0.0005859375000000222
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (62, 232)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 7: TRIPLE_SWAP | Indices: (160, 144, 24)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.713 | Step 2 | Particle 58 | GLOBAL BEST!
+Global Improvement: 0.0001953125000000444
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (5, 136)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (136, 53)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (5, 53)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (62, 232)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (232, 135)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (53, 136)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (53, 5)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (232, 135)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (5, 136)
+  Move 13: GUIDED_SWAP_TO_PBEST | Indices: (5, 53)
+  Move 14: GUIDED_SWAP_TO_PBEST | Indices: (53, 136)
+  Move 15: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 16: GUIDED_SWAP_TO_PBEST | Indices: (62, 232)
+  Move 17: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 18: GUIDED_SWAP_TO_GBEST | Indices: (53, 5)
+  Move 19: GUIDED_SWAP_TO_GBEST | Indices: (136, 5)
+  Move 20: GUIDED_SWAP_TO_GBEST | Indices: (135, 232)
+  Move 21: TRIPLE_SWAP | Indices: (26, 213, 146)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:16.759 | Step 2 | Particle 181 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (38, 136)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (232, 135)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (136, 138)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (232, 135)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (38, 138)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (136, 138)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (38, 136)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (232, 62)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (138, 136)
+  Move 13: TRIPLE_SWAP | Indices: (208, 11, 184)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.015 | Step 3 | Particle 3 | GLOBAL BEST!
+Global Improvement: 0.0003906250000000888
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (208, 184)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (11, 184)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (48, 256)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (256, 205)
+  Move 5: TRIPLE_SWAP | Indices: (77, 146, 34)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.020 | Step 3 | Particle 15 | GLOBAL BEST!
+Global Improvement: 0.0011718749999999334
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (184, 11)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (208, 11)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (182, 134)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (89, 134)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (89, 134)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (208, 11)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (134, 182)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (11, 184)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (184, 11)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (134, 89)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (208, 11)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (89, 182)
+  Move 13: TRIPLE_SWAP | Indices: (146, 25, 156)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.188 | Step 4 | Particle 15 | GLOBAL BEST!
+Global Improvement: 0.0001953124999999334
+  Move 1: TRIPLE_SWAP | Indices: (159, 212, 109)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.197 | Step 4 | Particle 37 | GLOBAL BEST!
+Global Improvement: 0.0012695312499999556
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (213, 39)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (146, 156)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (42, 49)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (49, 13)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (156, 146)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (49, 42)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (13, 42)
+  Move 9: GUIDED_SWAP_TO_PBEST | Indices: (39, 213)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (49, 13)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (156, 25)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (213, 39)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (25, 146)
+  Move 14: GUIDED_SWAP_TO_PBEST | Indices: (146, 25)
+  Move 15: GUIDED_SWAP_TO_PBEST | Indices: (39, 213)
+  Move 16: GUIDED_SWAP_TO_PBEST | Indices: (49, 13)
+  Move 17: GUIDED_SWAP_TO_PBEST | Indices: (62, 135)
+  Move 18: TRIPLE_SWAP | Indices: (146, 244, 209)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.357 | Step 5 | Particle 2 | GLOBAL BEST!
+Global Improvement: 0.000976562500000111
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (209, 244)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (146, 244)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (13, 49)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (42, 49)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (209, 146)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (49, 13)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (244, 146)
+  Move 9: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 10: GUIDED_SWAP_TO_PBEST | Indices: (42, 13)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (213, 39)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (25, 146)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 14: GUIDED_SWAP_TO_GBEST | Indices: (13, 49)
+  Move 15: GUIDED_SWAP_TO_GBEST | Indices: (146, 209)
+  Move 16: GUIDED_SWAP_TO_GBEST | Indices: (49, 42)
+  Move 17: GUIDED_SWAP_TO_GBEST | Indices: (209, 244)
+  Move 18: TRIPLE_SWAP | Indices: (110, 189, 158)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.365 | Step 5 | Particle 23 | GLOBAL BEST!
+Global Improvement: 0.0007812499999999556
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (213, 39)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (209, 244)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (25, 146)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (244, 146)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (146, 25)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (244, 209)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (209, 25)
+  Move 9: GUIDED_SWAP_TO_PBEST | Indices: (62, 135)
+  Move 10: GUIDED_SWAP_TO_PBEST | Indices: (213, 39)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (62, 135)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (39, 213)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (49, 42)
+  Move 14: GUIDED_SWAP_TO_GBEST | Indices: (146, 209)
+  Move 15: TRIPLE_SWAP | Indices: (94, 153, 48)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.415 | Step 5 | Particle 153 | GLOBAL BEST!
+Global Improvement: 0.0006835937500000444
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (42, 13)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (49, 13)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (25, 156)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (244, 146)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (13, 42)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (25, 156)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (42, 49)
+  Move 9: GUIDED_SWAP_TO_PBEST | Indices: (146, 244)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (244, 146)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (42, 13)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (209, 146)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (156, 25)
+  Move 14: GUIDED_SWAP_TO_GBEST | Indices: (39, 213)
+  Move 15: GUIDED_SWAP_TO_PBEST | Indices: (13, 42)
+  Move 16: GUIDED_SWAP_TO_PBEST | Indices: (156, 25)
+  Move 17: GUIDED_SWAP_TO_PBEST | Indices: (39, 213)
+  Move 18: GUIDED_SWAP_TO_PBEST | Indices: (62, 135)
+  Move 19: GUIDED_SWAP_TO_GBEST | Indices: (13, 49)
+  Move 20: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 21: GUIDED_SWAP_TO_GBEST | Indices: (25, 156)
+  Move 22: GUIDED_SWAP_TO_GBEST | Indices: (213, 39)
+  Move 23: GUIDED_SWAP_TO_GBEST | Indices: (49, 42)
+  Move 24: TRIPLE_SWAP | Indices: (161, 63, 221)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.516 | Step 6 | Particle 20 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (169, 194)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (194, 104)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (63, 221)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (161, 63)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (221, 63)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (104, 194)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (169, 194)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (169, 194)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (104, 194)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (63, 161)
+  Move 13: TRIPLE_SWAP | Indices: (232, 194, 229)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.522 | Step 6 | Particle 35 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (63, 161)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (146, 82)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (221, 161)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (221, 161)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (82, 146)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (63, 161)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (63, 161)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (221, 161)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (209, 146)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (82, 55)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 14: GUIDED_SWAP_TO_PBEST | Indices: (135, 62)
+  Move 15: GUIDED_SWAP_TO_PBEST | Indices: (55, 82)
+  Move 16: GUIDED_SWAP_TO_PBEST | Indices: (146, 209)
+  Move 17: GUIDED_SWAP_TO_GBEST | Indices: (146, 82)
+  Move 18: GUIDED_SWAP_TO_GBEST | Indices: (82, 55)
+  Move 19: GUIDED_SWAP_TO_GBEST | Indices: (135, 62)
+  Move 20: GUIDED_SWAP_TO_GBEST | Indices: (209, 55)
+  Move 21: TRIPLE_SWAP | Indices: (138, 256, 171)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.527 | Step 6 | Particle 47 | GLOBAL BEST!
+Global Improvement: 0.0006835937500000444
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (63, 221)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (221, 161)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (63, 221)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (221, 161)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (63, 161)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 11: TRIPLE_SWAP | Indices: (85, 256, 46)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.529 | Step 6 | Particle 52 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (25, 209)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (63, 161)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (221, 161)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (209, 25)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (63, 161)
+  Move 7: GUIDED_SWAP_TO_GBEST | Indices: (209, 25)
+  Move 8: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (63, 221)
+  Move 10: TRIPLE_SWAP | Indices: (244, 4, 69)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.541 | Step 6 | Particle 83 | GLOBAL BEST!
+Global Improvement: 0.0006835937500000444
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (39, 213)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (153, 194)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (161, 63)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (153, 194)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (39, 213)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (221, 63)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (244, 209)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (237, 153)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (39, 213)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 13: GUIDED_SWAP_TO_PBEST | Indices: (221, 63)
+  Move 14: GUIDED_SWAP_TO_PBEST | Indices: (39, 213)
+  Move 15: GUIDED_SWAP_TO_PBEST | Indices: (153, 237)
+  Move 16: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 17: GUIDED_SWAP_TO_GBEST | Indices: (63, 161)
+  Move 18: GUIDED_SWAP_TO_GBEST | Indices: (213, 39)
+  Move 19: GUIDED_SWAP_TO_GBEST | Indices: (153, 194)
+  Move 20: TRIPLE_SWAP | Indices: (180, 222, 88)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.686 | Step 7 | Particle 60 | GLOBAL BEST!
+Global Improvement: 0.00048828125
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (75, 38)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (194, 237)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (146, 209)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (222, 180)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (218, 38)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (146, 209)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (218, 38)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (38, 75)
+  Move 9: GUIDED_SWAP_TO_PBEST | Indices: (222, 180)
+  Move 10: GUIDED_SWAP_TO_PBEST | Indices: (194, 237)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (209, 146)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (222, 180)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (180, 88)
+  Move 14: GUIDED_SWAP_TO_GBEST | Indices: (237, 194)
+  Move 15: TRIPLE_SWAP | Indices: (31, 155, 6)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.691 | Step 7 | Particle 73 | GLOBAL BEST!
+Global Improvement: 0.0001953125000000444
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (237, 194)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (42, 49)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (180, 88)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (222, 88)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (237, 194)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (49, 42)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (222, 88)
+  Move 8: GUIDED_SWAP_TO_GBEST | Indices: (222, 88)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (49, 42)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (237, 194)
+  Move 11: GUIDED_SWAP_TO_PBEST | Indices: (49, 42)
+  Move 12: GUIDED_SWAP_TO_PBEST | Indices: (222, 88)
+  Move 13: GUIDED_SWAP_TO_PBEST | Indices: (194, 237)
+  Move 14: GUIDED_SWAP_TO_PBEST | Indices: (88, 180)
+  Move 15: GUIDED_SWAP_TO_GBEST | Indices: (194, 237)
+  Move 16: GUIDED_SWAP_TO_GBEST | Indices: (49, 42)
+  Move 17: GUIDED_SWAP_TO_GBEST | Indices: (222, 180)
+  Move 18: GUIDED_SWAP_TO_GBEST | Indices: (88, 180)
+  Move 19: TRIPLE_SWAP | Indices: (248, 23, 145)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.691 | Step 7 | Particle 75 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (88, 222)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (161, 221)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (180, 222)
+  Move 4: GUIDED_SWAP_TO_GBEST | Indices: (194, 237)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (146, 25)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (237, 194)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (222, 88)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (180, 88)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (221, 63)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (237, 194)
+  Move 11: GUIDED_SWAP_TO_GBEST | Indices: (180, 88)
+  Move 12: GUIDED_SWAP_TO_GBEST | Indices: (88, 222)
+  Move 13: TRIPLE_SWAP | Indices: (8, 239, 179)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.819 | Step 8 | Particle 5 | GLOBAL BEST!
+Global Improvement: 0.0006835937499999334
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (179, 239)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (239, 8)
+  Move 3: TRIPLE_SWAP | Indices: (41, 202, 80)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.866 | Step 8 | Particle 127 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (8, 179)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (239, 179)
+  Move 3: TRIPLE_SWAP | Indices: (1, 6, 65)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.975 | Step 9 | Particle 30 | GLOBAL BEST!
+Global Improvement: 0.0007812500000000666
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (1, 65)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (6, 65)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (65, 1)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (6, 1)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (6, 1)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (65, 1)
+  Move 7: TRIPLE_SWAP | Indices: (189, 85, 130)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:17.987 | Step 9 | Particle 62 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (65, 6)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (244, 25)
+  Move 3: GUIDED_SWAP_TO_GBEST | Indices: (1, 6)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (65, 1)
+  Move 5: GUIDED_SWAP_TO_PBEST | Indices: (6, 1)
+  Move 6: GUIDED_SWAP_TO_PBEST | Indices: (244, 25)
+  Move 7: GUIDED_SWAP_TO_GBEST | Indices: (244, 25)
+  Move 8: GUIDED_SWAP_TO_GBEST | Indices: (6, 1)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (65, 1)
+  Move 10: GUIDED_SWAP_TO_PBEST | Indices: (25, 244)
+  Move 11: GUIDED_SWAP_TO_PBEST | Indices: (6, 65)
+  Move 12: GUIDED_SWAP_TO_PBEST | Indices: (1, 65)
+  Move 13: GUIDED_SWAP_TO_GBEST | Indices: (25, 244)
+  Move 14: GUIDED_SWAP_TO_GBEST | Indices: (1, 65)
+  Move 15: GUIDED_SWAP_TO_GBEST | Indices: (65, 6)
+  Move 16: TRIPLE_SWAP | Indices: (215, 118, 210)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:18.433 | Step 11 | Particle 21 | GLOBAL BEST!
+Global Improvement: 0.00048828125
+  Move 1: TRIPLE_SWAP | Indices: (206, 225, 130)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:18.592 | Step 12 | Particle 38 | GLOBAL BEST!
+Global Improvement: 0.0010742187500000222
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (206, 130)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (225, 130)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (130, 206)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (206, 225)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (225, 206)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (206, 130)
+  Move 7: TRIPLE_SWAP | Indices: (138, 71, 192)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:18.906 | Step 14 | Particle 148 | GLOBAL BEST!
+Global Improvement: 0.0003906249999999778
+  Move 1: TRIPLE_SWAP | Indices: (149, 188, 236)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:19.004 | Step 15 | Particle 16 | GLOBAL BEST!
+Global Improvement: 0.0002929687500000666
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (149, 236)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (188, 236)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (188, 236)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (149, 236)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (149, 236)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (236, 188)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (236, 149)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (149, 188)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (236, 188)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (188, 149)
+  Move 11: TRIPLE_SWAP | Indices: (170, 212, 12)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:19.049 | Step 15 | Particle 134 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (236, 188)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (149, 188)
+  Move 3: TRIPLE_SWAP | Indices: (71, 40, 8)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:21.716 | Step 34 | Particle 128 | GLOBAL BEST!
+Global Improvement: 0.0003906249999999778
+  Move 1: TRIPLE_SWAP | Indices: (49, 224, 113)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:21.853 | Step 35 | Particle 78 | GLOBAL BEST!
+Global Improvement: 0.0003906249999999778
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (49, 113)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (224, 113)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (49, 224)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (224, 113)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (224, 49)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (49, 113)
+  Move 7: TRIPLE_SWAP | Indices: (89, 60, 137)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:22.387 | Step 39 | Particle 11 | GLOBAL BEST!
+Global Improvement: 0.0006835937500000444
+  Move 1: TRIPLE_SWAP | Indices: (165, 164, 167)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:23.353 | Step 46 | Particle 139 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: TRIPLE_SWAP | Indices: (212, 25, 175)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:35.441 | Step 106 | Particle 13 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: TRIPLE_SWAP | Indices: (66, 212, 183)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:35.891 | Step 108 | Particle 149 | GLOBAL BEST!
+Global Improvement: 0.0003906249999999778
+  Move 1: TRIPLE_SWAP | Indices: (224, 51, 229)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:36.039 | Step 109 | Particle 19 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: TRIPLE_SWAP | Indices: (113, 154, 91)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:36.468 | Step 111 | Particle 71 | GLOBAL BEST!
+Global Improvement: 0.0001953124999999334
+  Move 1: TRIPLE_SWAP | Indices: (123, 72, 1)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:41.257 | Step 135 | Particle 26 | GLOBAL BEST!
+Global Improvement: 0.00048828125
+  Move 1: TRIPLE_SWAP | Indices: (38, 99, 9)
+=================================================================================
+=================================================================================
+2026-01-20T09:46:41.489 | Step 136 | Particle 62 | GLOBAL BEST!
+Global Improvement: 0.0001953125000000444
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (99, 38)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (9, 38)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (99, 9)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (38, 9)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (9, 99)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (38, 99)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (38, 99)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (99, 9)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (9, 99)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (99, 38)
+  Move 11: TRIPLE_SWAP | Indices: (189, 239, 137)
+=================================================================================
+=================================================================================
+2026-01-20T09:48:01.563 | Step 512 | Particle 29 | GLOBAL BEST!
+Global Improvement: 0.0005859375000000222
+  Move 1: TRIPLE_SWAP | Indices: (52, 235, 227)
+=================================================================================
+=================================================================================
+2026-01-20T09:48:01.826 | Step 513 | Particle 128 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (227, 235)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (52, 235)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (52, 235)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (235, 227)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (52, 227)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (235, 227)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (227, 52)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (52, 235)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (227, 235)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (52, 235)
+  Move 11: TRIPLE_SWAP | Indices: (22, 166, 158)
+=================================================================================
+=================================================================================
+2026-01-20T09:48:02.015 | Step 514 | Particle 76 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (22, 158)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (158, 166)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (166, 158)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (158, 22)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (166, 22)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (158, 22)
+  Move 7: GUIDED_SWAP_TO_PBEST | Indices: (166, 158)
+  Move 8: GUIDED_SWAP_TO_PBEST | Indices: (22, 158)
+  Move 9: GUIDED_SWAP_TO_GBEST | Indices: (166, 22)
+  Move 10: GUIDED_SWAP_TO_GBEST | Indices: (158, 22)
+  Move 11: TRIPLE_SWAP | Indices: (179, 100, 186)
+=================================================================================
+=================================================================================
+2026-01-20T09:48:45.233 | Step 709 | Particle 195 | GLOBAL BEST!
+Global Improvement: 0.00048828125
+  Move 1: TRIPLE_SWAP | Indices: (247, 170, 241)
+=================================================================================
+=================================================================================
+2026-01-20T09:48:45.406 | Step 710 | Particle 74 | GLOBAL BEST!
+Global Improvement: 0.0001953124999999334
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (241, 170)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (170, 247)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (247, 170)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (241, 170)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (247, 241)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (241, 170)
+  Move 7: TRIPLE_SWAP | Indices: (248, 70, 139)
+=================================================================================
+=================================================================================
+2026-01-20T09:48:47.158 | Step 718 | Particle 99 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: TRIPLE_SWAP | Indices: (211, 18, 138)
+=================================================================================
+=================================================================================
+2026-01-20T09:49:39.973 | Step 951 | Particle 175 | GLOBAL BEST!
+Global Improvement: 0.0005859375000000222
+  Move 1: TRIPLE_SWAP | Indices: (87, 245, 102)
+=================================================================================
+=================================================================================
+2026-01-20T09:49:40.175 | Step 952 | Particle 146 | GLOBAL BEST!
+Global Improvement: 9.76562500000222e-5
+  Move 1: GUIDED_SWAP_TO_GBEST | Indices: (102, 245)
+  Move 2: GUIDED_SWAP_TO_GBEST | Indices: (245, 87)
+  Move 3: GUIDED_SWAP_TO_PBEST | Indices: (245, 102)
+  Move 4: GUIDED_SWAP_TO_PBEST | Indices: (102, 87)
+  Move 5: GUIDED_SWAP_TO_GBEST | Indices: (102, 245)
+  Move 6: GUIDED_SWAP_TO_GBEST | Indices: (245, 87)
+  Move 7: TRIPLE_SWAP | Indices: (190, 230, 1)
+=================================================================================
+=================================================================================
+2026-01-20T09:49:43.531 | Step 967 | Particle 147 | GLOBAL BEST!
+Global Improvement: 9.765624999991118e-5
+  Move 1: TRIPLE_SWAP | Indices: (49, 28, 63)
+=================================================================================
